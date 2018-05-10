@@ -1,5 +1,3 @@
-package ninja.badges.server;
-
 import com.google.common.base.MoreObjects;
 
 import java.io.Serializable;
